@@ -1,0 +1,1752 @@
+[
+    {
+        "countryNameEn": "Andorra",
+        "countryCode": "AD",
+        "region": "Europe",
+        "flag": "🇦🇩",
+        "countryKorName": "안도라"
+    },
+    {
+        "countryNameEn": "Afghanistan",
+        "countryCode": "AF",
+        "region": "Asia & Pacific",
+        "flag": "🇦🇫",
+        "countryKorName": "아프가니스탄"
+    },
+    {
+        "countryNameEn": "Antigua and Barbuda",
+        "countryCode": "AG",
+        "region": "South/Latin America",
+        "flag": "🇦🇬",
+        "countryKorName": "앤티가 바부다"
+    },
+    {
+        "countryNameEn": "Anguilla",
+        "countryCode": "AI",
+        "region": "South/Latin America",
+        "flag": "🇦🇮",
+        "countryKorName": "앵귈라"
+    },
+    {
+        "countryNameEn": "Albania",
+        "countryCode": "AL",
+        "region": "Europe",
+        "flag": "🇦🇱",
+        "countryKorName": "알바니아"
+    },
+    {
+        "countryNameEn": "Armenia",
+        "countryCode": "AM",
+        "region": "Europe",
+        "flag": "🇦🇲",
+        "countryKorName": "아르메니아"
+    },
+    {
+        "countryNameEn": "Angola",
+        "countryCode": "AO",
+        "region": "Africa",
+        "flag": "🇦🇴",
+        "countryKorName": "앙골라"
+    },
+    {
+        "countryNameEn": "Antarctica",
+        "countryCode": "AQ",
+        "region": "Asia & Pacific",
+        "flag": "🇦🇶",
+        "countryKorName": "남극"
+    },
+    {
+        "countryNameEn": "Argentina",
+        "countryCode": "AR",
+        "region": "South/Latin America",
+        "flag": "🇦🇷",
+        "countryKorName": "아르헨티나"
+    },
+    {
+        "countryNameEn": "American Samoa",
+        "countryCode": "AS",
+        "region": "Asia & Pacific",
+        "flag": "🇦🇸",
+        "countryKorName": "아메리칸사모아"
+    },
+    {
+        "countryNameEn": "Austria",
+        "countryCode": "AT",
+        "region": "Europe",
+        "flag": "🇦🇹",
+        "countryKorName": "오스트리아"
+    },
+    {
+        "countryNameEn": "Australia",
+        "countryCode": "AU",
+        "region": "Asia & Pacific",
+        "flag": "🇦🇺",
+        "countryKorName": "오스트레일리아"
+    },
+    {
+        "countryNameEn": "Aruba",
+        "countryCode": "AW",
+        "region": "South/Latin America",
+        "flag": "🇦🇼",
+        "countryKorName": "아루바"
+    },
+    {
+        "countryNameEn": "Åland Islands",
+        "countryCode": "AX",
+        "region": "Europe",
+        "flag": "🇦🇽",
+        "countryKorName": "올란드 제도"
+    },
+    {
+        "countryNameEn": "Azerbaijan",
+        "countryCode": "AZ",
+        "region": "Asia & Pacific",
+        "flag": "🇦🇿",
+        "countryKorName": "아제르바이잔"
+    },
+    {
+        "countryNameEn": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "region": "Europe",
+        "flag": "🇧🇦",
+        "countryKorName": "보스니아 헤르체고비나"
+    },
+    {
+        "countryNameEn": "Barbados",
+        "countryCode": "BB",
+        "region": "South/Latin America",
+        "flag": "🇧🇧",
+        "countryKorName": "바베이도스"
+    },
+    {
+        "countryNameEn": "Bangladesh",
+        "countryCode": "BD",
+        "region": "Asia & Pacific",
+        "flag": "🇧🇩",
+        "countryKorName": "방글라데시"
+    },
+    {
+        "countryNameEn": "Belgium",
+        "countryCode": "BE",
+        "region": "Europe",
+        "flag": "🇧🇪",
+        "countryKorName": "벨기에"
+    },
+    {
+        "countryNameEn": "Burkina Faso",
+        "countryCode": "BF",
+        "region": "Africa",
+        "flag": "🇧🇫",
+        "countryKorName": "부르키나파소"
+    },
+    {
+        "countryNameEn": "Bulgaria",
+        "countryCode": "BG",
+        "region": "Europe",
+        "flag": "🇧🇬",
+        "countryKorName": "불가리아"
+    },
+    {
+        "countryNameEn": "Bahrain",
+        "countryCode": "BH",
+        "region": "Arab States",
+        "flag": "🇧🇭",
+        "countryKorName": "바레인"
+    },
+    {
+        "countryNameEn": "Burundi",
+        "countryCode": "BI",
+        "region": "Africa",
+        "flag": "🇧🇮",
+        "countryKorName": "부룬디"
+    },
+    {
+        "countryNameEn": "Benin",
+        "countryCode": "BJ",
+        "region": "Africa",
+        "flag": "🇧🇯",
+        "countryKorName": "베냉"
+    },
+    {
+        "countryNameEn": "Saint Barthélemy",
+        "countryCode": "BL",
+        "region": "South/Latin America",
+        "flag": "🇧🇱",
+        "countryKorName": "생바르텔레미"
+    },
+    {
+        "countryNameEn": "Bermuda",
+        "countryCode": "BM",
+        "region": "North America",
+        "flag": "🇧🇲",
+        "countryKorName": "버뮤다"
+    },
+    {
+        "countryNameEn": "Brunei Darussalam",
+        "countryCode": "BN",
+        "region": "Asia & Pacific",
+        "flag": "🇧🇳",
+        "countryKorName": "브루나이"
+    },
+    {
+        "countryNameEn": "Bolivia (Plurinational State of)",
+        "countryCode": "BO",
+        "region": "South/Latin America",
+        "flag": "🇧🇴",
+        "countryKorName": "볼리비아"
+    },
+    {
+        "countryNameEn": "Bonaire, Sint Eustatius and Saba",
+        "countryCode": "BQ",
+        "region": "Unknown",
+        "flag": "🇧🇶",
+        "countryKorName": "보네르섬"
+    },
+    {
+        "countryNameEn": "Brazil",
+        "countryCode": "BR",
+        "region": "South/Latin America",
+        "flag": "🇧🇷",
+        "countryKorName": "브라질"
+    },
+    {
+        "countryNameEn": "Bhutan",
+        "countryCode": "BT",
+        "region": "Asia & Pacific",
+        "flag": "🇧🇹",
+        "countryKorName": "부탄"
+    },
+    {
+        "countryNameEn": "Bouvet Island",
+        "countryCode": "BV",
+        "region": "South/Latin America",
+        "flag": "🇧🇻",
+        "countryKorName": "부베섬"
+    },
+    {
+        "countryNameEn": "Botswana",
+        "countryCode": "BW",
+        "region": "Africa",
+        "flag": "🇧🇼",
+        "countryKorName": "보츠와나"
+    },
+    {
+        "countryNameEn": "Belarus",
+        "countryCode": "BY",
+        "region": "Europe",
+        "flag": "🇧🇾",
+        "countryKorName": "벨라루스"
+    },
+    {
+        "countryNameEn": "Belize",
+        "countryCode": "BZ",
+        "region": "South/Latin America",
+        "flag": "🇧🇿",
+        "countryKorName": "벨리즈"
+    },
+    {
+        "countryNameEn": "Canada",
+        "countryCode": "CA",
+        "region": "North America",
+        "flag": "🇨🇦",
+        "countryKorName": "캐나다"
+    },
+    {
+        "countryNameEn": "Switzerland",
+        "countryCode": "CH",
+        "region": "Europe",
+        "flag": "🇨🇭",
+        "countryKorName": "스위스"
+    },
+    {
+        "countryNameEn": "Côte d'Ivoire",
+        "countryCode": "CI",
+        "region": "Africa",
+        "flag": "🇨🇮",
+        "countryKorName": "코트디부아르"
+    },
+    {
+        "countryNameEn": "Chile",
+        "countryCode": "CL",
+        "region": "South/Latin America",
+        "flag": "🇨🇱",
+        "countryKorName": "칠레"
+    },
+    {
+        "countryNameEn": "Cameroon",
+        "countryCode": "CM",
+        "region": "Africa",
+        "flag": "🇨🇲",
+        "countryKorName": "카메룬"
+    },
+    {
+        "countryNameEn": "China",
+        "countryCode": "CN",
+        "region": "Asia & Pacific",
+        "flag": "🇨🇳",
+        "countryKorName": "중국"
+    },
+    {
+        "countryNameEn": "Colombia",
+        "countryCode": "CO",
+        "region": "South/Latin America",
+        "flag": "🇨🇴",
+        "countryKorName": "콜롬비아"
+    },
+    {
+        "countryNameEn": "Costa Rica",
+        "countryCode": "CR",
+        "region": "South/Latin America",
+        "flag": "🇨🇷",
+        "countryKorName": "코스타리카"
+    },
+    {
+        "countryNameEn": "Cuba",
+        "countryCode": "CU",
+        "region": "South/Latin America",
+        "flag": "🇨🇺",
+        "countryKorName": "쿠바"
+    },
+    {
+        "countryNameEn": "Cabo Verde",
+        "countryCode": "CV",
+        "region": "Africa",
+        "flag": "🇨🇻",
+        "countryKorName": "카보베르데"
+    },
+    {
+        "countryNameEn": "Curaçao",
+        "countryCode": "CW",
+        "region": "Unknown",
+        "flag": "🇨🇼",
+        "countryKorName": "퀴라소"
+    },
+    {
+        "countryNameEn": "Christmas Island",
+        "countryCode": "CX",
+        "region": "Asia & Pacific",
+        "flag": "🇨🇽",
+        "countryKorName": "크리스마스섬"
+    },
+    {
+        "countryNameEn": "Cyprus",
+        "countryCode": "CY",
+        "region": "Europe",
+        "flag": "🇨🇾",
+        "countryKorName": "키프로스"
+    },
+    {
+        "countryNameEn": "Germany",
+        "countryCode": "DE",
+        "region": "Europe",
+        "flag": "🇩🇪",
+        "countryKorName": "독일"
+    },
+    {
+        "countryNameEn": "Djibouti",
+        "countryCode": "DJ",
+        "region": "Arab States",
+        "flag": "🇩🇯",
+        "countryKorName": "지부티"
+    },
+    {
+        "countryNameEn": "Denmark",
+        "countryCode": "DK",
+        "region": "Europe",
+        "flag": "🇩🇰",
+        "countryKorName": "덴마크"
+    },
+    {
+        "countryNameEn": "Dominica",
+        "countryCode": "DM",
+        "region": "South/Latin America",
+        "flag": "🇩🇲",
+        "countryKorName": "도미니카 연방"
+    },
+    {
+        "countryNameEn": "Algeria",
+        "countryCode": "DZ",
+        "region": "Arab States",
+        "flag": "🇩🇿",
+        "countryKorName": "알제리"
+    },
+    {
+        "countryNameEn": "Ecuador",
+        "countryCode": "EC",
+        "region": "South/Latin America",
+        "flag": "🇪🇨",
+        "countryKorName": "에콰도르"
+    },
+    {
+        "countryNameEn": "Estonia",
+        "countryCode": "EE",
+        "region": "Europe",
+        "flag": "🇪🇪",
+        "countryKorName": "에스토니아"
+    },
+    {
+        "countryNameEn": "Egypt",
+        "countryCode": "EG",
+        "region": "Arab States",
+        "flag": "🇪🇬",
+        "countryKorName": "이집트"
+    },
+    {
+        "countryNameEn": "Western Sahara",
+        "countryCode": "EH",
+        "region": "Africa",
+        "flag": "🇪🇭",
+        "countryKorName": "서사하라"
+    },
+    {
+        "countryNameEn": "Eritrea",
+        "countryCode": "ER",
+        "region": "Africa",
+        "flag": "🇪🇷",
+        "countryKorName": "에리트레아"
+    },
+    {
+        "countryNameEn": "Spain",
+        "countryCode": "ES",
+        "region": "Europe",
+        "flag": "🇪🇸",
+        "countryKorName": "스페인"
+    },
+    {
+        "countryNameEn": "Ethiopia",
+        "countryCode": "ET",
+        "region": "Africa",
+        "flag": "🇪🇹",
+        "countryKorName": "에티오피아"
+    },
+    {
+        "countryNameEn": "Finland",
+        "countryCode": "FI",
+        "region": "Europe",
+        "flag": "🇫🇮",
+        "countryKorName": "핀란드"
+    },
+    {
+        "countryNameEn": "Fiji",
+        "countryCode": "FJ",
+        "region": "Asia & Pacific",
+        "flag": "🇫🇯",
+        "countryKorName": "피지"
+    },
+    {
+        "countryNameEn": "Micronesia (Federated States of)",
+        "countryCode": "FM",
+        "region": "Asia & Pacific",
+        "flag": "🇫🇲",
+        "countryKorName": "미크로네시아 연방"
+    },
+    {
+        "countryNameEn": "France",
+        "countryCode": "FR",
+        "region": "Europe",
+        "flag": "🇫🇷",
+        "countryKorName": "프랑스"
+    },
+    {
+        "countryNameEn": "Gabon",
+        "countryCode": "GA",
+        "region": "Africa",
+        "flag": "🇬🇦",
+        "countryKorName": "가봉"
+    },
+    {
+        "countryNameEn": "Grenada",
+        "countryCode": "GD",
+        "region": "South/Latin America",
+        "flag": "🇬🇩",
+        "countryKorName": "그레나다"
+    },
+    {
+        "countryNameEn": "Georgia",
+        "countryCode": "GE",
+        "region": "Europe",
+        "flag": "🇬🇪",
+        "countryKorName": "조지아"
+    },
+    {
+        "countryNameEn": "French Guiana",
+        "countryCode": "GF",
+        "region": "South/Latin America",
+        "flag": "🇬🇫",
+        "countryKorName": "프랑스령 기아나"
+    },
+    {
+        "countryNameEn": "Guernsey",
+        "countryCode": "GG",
+        "region": "Europe",
+        "flag": "🇬🇬",
+        "countryKorName": "건지섬"
+    },
+    {
+        "countryNameEn": "Ghana",
+        "countryCode": "GH",
+        "region": "Africa",
+        "flag": "🇬🇭",
+        "countryKorName": "가나"
+    },
+    {
+        "countryNameEn": "Gibraltar",
+        "countryCode": "GI",
+        "region": "Europe",
+        "flag": "🇬🇮",
+        "countryKorName": "지브롤터"
+    },
+    {
+        "countryNameEn": "Greenland",
+        "countryCode": "GL",
+        "region": "Europe",
+        "flag": "🇬🇱",
+        "countryKorName": "그린란드"
+    },
+    {
+        "countryNameEn": "Guinea",
+        "countryCode": "GN",
+        "region": "Africa",
+        "flag": "🇬🇳",
+        "countryKorName": "기니"
+    },
+    {
+        "countryNameEn": "Guadeloupe",
+        "countryCode": "GP",
+        "region": "South/Latin America",
+        "flag": "🇬🇵",
+        "countryKorName": "과들루프"
+    },
+    {
+        "countryNameEn": "Equatorial Guinea",
+        "countryCode": "GQ",
+        "region": "Africa",
+        "flag": "🇬🇶",
+        "countryKorName": "적도 기니"
+    },
+    {
+        "countryNameEn": "Greece",
+        "countryCode": "GR",
+        "region": "Europe",
+        "flag": "🇬🇷",
+        "countryKorName": "그리스"
+    },
+    {
+        "countryNameEn": "South Georgia and the South Sandwich Islands",
+        "countryCode": "GS",
+        "region": "South/Latin America",
+        "flag": "🇬🇸",
+        "countryKorName": "사우스조지아 사우스샌드위치 제도"
+    },
+    {
+        "countryNameEn": "Guatemala",
+        "countryCode": "GT",
+        "region": "South/Latin America",
+        "flag": "🇬🇹",
+        "countryKorName": "과테말라"
+    },
+    {
+        "countryNameEn": "Guam",
+        "countryCode": "GU",
+        "region": "Asia & Pacific",
+        "flag": "🇬🇺",
+        "countryKorName": "괌"
+    },
+    {
+        "countryNameEn": "Guinea-Bissau",
+        "countryCode": "GW",
+        "region": "Africa",
+        "flag": "🇬🇼",
+        "countryKorName": "기니비사우"
+    },
+    {
+        "countryNameEn": "Guyana",
+        "countryCode": "GY",
+        "region": "South/Latin America",
+        "flag": "🇬🇾",
+        "countryKorName": "가이아나"
+    },
+    {
+        "countryNameEn": "Hong Kong",
+        "countryCode": "HK",
+        "region": "Asia & Pacific",
+        "flag": "🇭🇰",
+        "countryKorName": "홍콩"
+    },
+    {
+        "countryNameEn": "Honduras",
+        "countryCode": "HN",
+        "region": "South/Latin America",
+        "flag": "🇭🇳",
+        "countryKorName": "온두라스"
+    },
+    {
+        "countryNameEn": "Croatia",
+        "countryCode": "HR",
+        "region": "Europe",
+        "flag": "🇭🇷",
+        "countryKorName": "크로아티아"
+    },
+    {
+        "countryNameEn": "Haiti",
+        "countryCode": "HT",
+        "region": "South/Latin America",
+        "flag": "🇭🇹",
+        "countryKorName": "아이티"
+    },
+    {
+        "countryNameEn": "Hungary",
+        "countryCode": "HU",
+        "region": "Europe",
+        "flag": "🇭🇺",
+        "countryKorName": "헝가리"
+    },
+    {
+        "countryNameEn": "Indonesia",
+        "countryCode": "ID",
+        "region": "Asia & Pacific",
+        "flag": "🇮🇩",
+        "countryKorName": "인도네시아"
+    },
+    {
+        "countryNameEn": "Ireland",
+        "countryCode": "IE",
+        "region": "Europe",
+        "flag": "🇮🇪",
+        "countryKorName": "아일랜드"
+    },
+    {
+        "countryNameEn": "Israel",
+        "countryCode": "IL",
+        "region": "Europe",
+        "flag": "🇮🇱",
+        "countryKorName": "이스라엘"
+    },
+    {
+        "countryNameEn": "Isle of Man",
+        "countryCode": "IM",
+        "region": "Europe",
+        "flag": "🇮🇲",
+        "countryKorName": "맨섬"
+    },
+    {
+        "countryNameEn": "India",
+        "countryCode": "IN",
+        "region": "Asia & Pacific",
+        "flag": "🇮🇳",
+        "countryKorName": "인도"
+    },
+    {
+        "countryNameEn": "British Indian Ocean Territories",
+        "countryCode": "IO",
+        "region": "Indian Ocean",
+        "flag": "🇮🇴",
+        "countryKorName": "영국령 인도양 지역"
+    },
+    {
+        "countryNameEn": "Iraq",
+        "countryCode": "IQ",
+        "region": "Arab States",
+        "flag": "🇮🇶",
+        "countryKorName": "이라크"
+    },
+    {
+        "countryNameEn": "Iran (Islamic Republic of)",
+        "countryCode": "IR",
+        "region": "Asia & Pacific",
+        "flag": "🇮🇷",
+        "countryKorName": "이란"
+    },
+    {
+        "countryNameEn": "Iceland",
+        "countryCode": "IS",
+        "region": "Europe",
+        "flag": "🇮🇸",
+        "countryKorName": "아이슬란드"
+    },
+    {
+        "countryNameEn": "Italy",
+        "countryCode": "IT",
+        "region": "Europe",
+        "flag": "🇮🇹",
+        "countryKorName": "이탈리아"
+    },
+    {
+        "countryNameEn": "Jersey",
+        "countryCode": "JE",
+        "region": "Europe",
+        "flag": "🇯🇪",
+        "countryKorName": "저지섬"
+    },
+    {
+        "countryNameEn": "Jamaica",
+        "countryCode": "JM",
+        "region": "South/Latin America",
+        "flag": "🇯🇲",
+        "countryKorName": "자메이카"
+    },
+    {
+        "countryNameEn": "Jordan",
+        "countryCode": "JO",
+        "region": "Arab States",
+        "flag": "🇯🇴",
+        "countryKorName": "요르단"
+    },
+    {
+        "countryNameEn": "Japan",
+        "countryCode": "JP",
+        "region": "Asia & Pacific",
+        "flag": "🇯🇵",
+        "countryKorName": "일본"
+    },
+    {
+        "countryNameEn": "Kenya",
+        "countryCode": "KE",
+        "region": "Africa",
+        "flag": "🇰🇪",
+        "countryKorName": "케냐"
+    },
+    {
+        "countryNameEn": "Kyrgyzstan",
+        "countryCode": "KG",
+        "region": "Asia & Pacific",
+        "flag": "🇰🇬",
+        "countryKorName": "키르기스스탄"
+    },
+    {
+        "countryNameEn": "Cambodia",
+        "countryCode": "KH",
+        "region": "Asia & Pacific",
+        "flag": "🇰🇭",
+        "countryKorName": "캄보디아"
+    },
+    {
+        "countryNameEn": "North Korea",
+        "countryCode": "KP",
+        "region": "Asia",
+        "flag": "🇰🇵",
+        "countryKorName": "조선민주주의인민공화국"
+    },
+    {
+        "countryNameEn": "South Korea",
+        "countryCode": "KR",
+        "region": "Asia",
+        "flag": "🇰🇷",
+        "countryKorName": "대한민국"
+    },
+    {
+        "countryNameEn": "Kiribati",
+        "countryCode": "KI",
+        "region": "Asia & Pacific",
+        "flag": "🇰🇮",
+        "countryKorName": "키리바시"
+    },
+    {
+        "countryNameEn": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "region": "South/Latin America",
+        "flag": "🇰🇳",
+        "countryKorName": "세인트키츠 네비스"
+    },
+    {
+        "countryNameEn": "Kuwait",
+        "countryCode": "KW",
+        "region": "Arab States",
+        "flag": "🇰🇼",
+        "countryKorName": "쿠웨이트"
+    },
+    {
+        "countryNameEn": "Kazakhstan",
+        "countryCode": "KZ",
+        "region": "Asia & Pacific",
+        "flag": "🇰🇿",
+        "countryKorName": "카자흐스탄"
+    },
+    {
+        "countryNameEn": "Lebanon",
+        "countryCode": "LB",
+        "region": "Arab States",
+        "flag": "🇱🇧",
+        "countryKorName": "레바논"
+    },
+    {
+        "countryNameEn": "Saint Lucia",
+        "countryCode": "LC",
+        "region": "South/Latin America",
+        "flag": "🇱🇨",
+        "countryKorName": "세인트루시아"
+    },
+    {
+        "countryNameEn": "Liechtenstein",
+        "countryCode": "LI",
+        "region": "Europe",
+        "flag": "🇱🇮",
+        "countryKorName": "리히텐슈타인"
+    },
+    {
+        "countryNameEn": "Sri Lanka",
+        "countryCode": "LK",
+        "region": "Asia & Pacific",
+        "flag": "🇱🇰",
+        "countryKorName": "스리랑카"
+    },
+    {
+        "countryNameEn": "Liberia",
+        "countryCode": "LR",
+        "region": "Africa",
+        "flag": "🇱🇷",
+        "countryKorName": "라이베리아"
+    },
+    {
+        "countryNameEn": "Lesotho",
+        "countryCode": "LS",
+        "region": "Africa",
+        "flag": "🇱🇸",
+        "countryKorName": "레소토"
+    },
+    {
+        "countryNameEn": "Lithuania",
+        "countryCode": "LT",
+        "region": "Europe",
+        "flag": "🇱🇹",
+        "countryKorName": "리투아니아"
+    },
+    {
+        "countryNameEn": "Luxembourg",
+        "countryCode": "LU",
+        "region": "Europe",
+        "flag": "🇱🇺",
+        "countryKorName": "룩셈부르크"
+    },
+    {
+        "countryNameEn": "Latvia",
+        "countryCode": "LV",
+        "region": "Europe",
+        "flag": "🇱🇻",
+        "countryKorName": "라트비아"
+    },
+    {
+        "countryNameEn": "Libya",
+        "countryCode": "LY",
+        "region": "Arab States",
+        "flag": "🇱🇾",
+        "countryKorName": "리비아"
+    },
+    {
+        "countryNameEn": "Morocco",
+        "countryCode": "MA",
+        "region": "Arab States",
+        "flag": "🇲🇦",
+        "countryKorName": "모로코"
+    },
+    {
+        "countryNameEn": "Monaco",
+        "countryCode": "MC",
+        "region": "Europe",
+        "flag": "🇲🇨",
+        "countryKorName": "모나코"
+    },
+    {
+        "countryNameEn": "Montenegro",
+        "countryCode": "ME",
+        "region": "Europe",
+        "flag": "🇲🇪",
+        "countryKorName": "몬테네그로"
+    },
+    {
+        "countryNameEn": "Saint Martin (French part)",
+        "countryCode": "MF",
+        "region": "South/Latin America",
+        "flag": "🇲🇫",
+        "countryKorName": "생마르탱"
+    },
+    {
+        "countryNameEn": "Madagascar",
+        "countryCode": "MG",
+        "region": "Africa",
+        "flag": "🇲🇬",
+        "countryKorName": "마다가스카르"
+    },
+    {
+        "countryNameEn": "Mali",
+        "countryCode": "ML",
+        "region": "Africa",
+        "flag": "🇲🇱",
+        "countryKorName": "말리"
+    },
+    {
+        "countryNameEn": "Myanmar",
+        "countryCode": "MM",
+        "region": "Asia & Pacific",
+        "flag": "🇲🇲",
+        "countryKorName": "미얀마"
+    },
+    {
+        "countryNameEn": "Mongolia",
+        "countryCode": "MN",
+        "region": "Asia & Pacific",
+        "flag": "🇲🇳",
+        "countryKorName": "몽골"
+    },
+    {
+        "countryNameEn": "Macao",
+        "countryCode": "MO",
+        "region": "Asia & Pacific",
+        "flag": "🇲🇴",
+        "countryKorName": "마카오"
+    },
+    {
+        "countryNameEn": "Martinique",
+        "countryCode": "MQ",
+        "region": "South/Latin America",
+        "flag": "🇲🇶",
+        "countryKorName": "마르티니크"
+    },
+    {
+        "countryNameEn": "Mauritania",
+        "countryCode": "MR",
+        "region": "Arab States",
+        "flag": "🇲🇷",
+        "countryKorName": "모리타니"
+    },
+    {
+        "countryNameEn": "Montserrat",
+        "countryCode": "MS",
+        "region": "South/Latin America",
+        "flag": "🇲🇸",
+        "countryKorName": "몬트세랫"
+    },
+    {
+        "countryNameEn": "Malta",
+        "countryCode": "MT",
+        "region": "Europe",
+        "flag": "🇲🇹",
+        "countryKorName": "몰타"
+    },
+    {
+        "countryNameEn": "Mauritius",
+        "countryCode": "MU",
+        "region": "Africa",
+        "flag": "🇲🇺",
+        "countryKorName": "모리셔스"
+    },
+    {
+        "countryNameEn": "Maldives",
+        "countryCode": "MV",
+        "region": "Asia & Pacific",
+        "flag": "🇲🇻",
+        "countryKorName": "몰디브"
+    },
+    {
+        "countryNameEn": "Malawi",
+        "countryCode": "MW",
+        "region": "Africa",
+        "flag": "🇲🇼",
+        "countryKorName": "말라위"
+    },
+    {
+        "countryNameEn": "Mexico",
+        "countryCode": "MX",
+        "region": "South/Latin America",
+        "flag": "🇲🇽",
+        "countryKorName": "멕시코"
+    },
+    {
+        "countryNameEn": "Malaysia",
+        "countryCode": "MY",
+        "region": "Asia & Pacific",
+        "flag": "🇲🇾",
+        "countryKorName": "말레이시아"
+    },
+    {
+        "countryNameEn": "Mozambique",
+        "countryCode": "MZ",
+        "region": "Africa",
+        "flag": "🇲🇿",
+        "countryKorName": "모잠비크"
+    },
+    {
+        "countryNameEn": "Namibia",
+        "countryCode": "NA",
+        "region": "Africa",
+        "flag": "🇳🇦",
+        "countryKorName": "나미비아"
+    },
+    {
+        "countryNameEn": "New Caledonia",
+        "countryCode": "NC",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇨",
+        "countryKorName": "누벨칼레도니"
+    },
+    {
+        "countryNameEn": "Norfolk Island",
+        "countryCode": "NF",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇫",
+        "countryKorName": "노퍽섬"
+    },
+    {
+        "countryNameEn": "Nigeria",
+        "countryCode": "NG",
+        "region": "Africa",
+        "flag": "🇳🇬",
+        "countryKorName": "나이지리아"
+    },
+    {
+        "countryNameEn": "Nicaragua",
+        "countryCode": "NI",
+        "region": "South/Latin America",
+        "flag": "🇳🇮",
+        "countryKorName": "니카라과"
+    },
+    {
+        "countryNameEn": "Norway",
+        "countryCode": "NO",
+        "region": "Europe",
+        "flag": "🇳🇴",
+        "countryKorName": "노르웨이"
+    },
+    {
+        "countryNameEn": "Nepal",
+        "countryCode": "NP",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇵",
+        "countryKorName": "네팔"
+    },
+    {
+        "countryNameEn": "Nauru",
+        "countryCode": "NR",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇷",
+        "countryKorName": "나우루"
+    },
+    {
+        "countryNameEn": "Niue",
+        "countryCode": "NU",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇺",
+        "countryKorName": "니우에"
+    },
+    {
+        "countryNameEn": "New Zealand",
+        "countryCode": "NZ",
+        "region": "Asia & Pacific",
+        "flag": "🇳🇿",
+        "countryKorName": "뉴질랜드"
+    },
+    {
+        "countryNameEn": "Oman",
+        "countryCode": "OM",
+        "region": "Arab States",
+        "flag": "🇴🇲",
+        "countryKorName": "오만"
+    },
+    {
+        "countryNameEn": "Panama",
+        "countryCode": "PA",
+        "region": "South/Latin America",
+        "flag": "🇵🇦",
+        "countryKorName": "파나마"
+    },
+    {
+        "countryNameEn": "Peru",
+        "countryCode": "PE",
+        "region": "South/Latin America",
+        "flag": "🇵🇪",
+        "countryKorName": "페루"
+    },
+    {
+        "countryNameEn": "French Polynesia",
+        "countryCode": "PF",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇫",
+        "countryKorName": "프랑스령 폴리네시아"
+    },
+    {
+        "countryNameEn": "Papua New Guinea",
+        "countryCode": "PG",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇬",
+        "countryKorName": "파푸아뉴기니"
+    },
+    {
+        "countryNameEn": "Pakistan",
+        "countryCode": "PK",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇰",
+        "countryKorName": "파키스탄"
+    },
+    {
+        "countryNameEn": "Poland",
+        "countryCode": "PL",
+        "region": "Europe",
+        "flag": "🇵🇱",
+        "countryKorName": "폴란드"
+    },
+    {
+        "countryNameEn": "Saint Pierre and Miquelon",
+        "countryCode": "PM",
+        "region": "North America",
+        "flag": "🇵🇲",
+        "countryKorName": "생피에르 미클롱"
+    },
+    {
+        "countryNameEn": "Pitcairn",
+        "countryCode": "PN",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇳",
+        "countryKorName": "핏케언 제도"
+    },
+    {
+        "countryNameEn": "Puerto Rico",
+        "countryCode": "PR",
+        "region": "South/Latin America",
+        "flag": "🇵🇷",
+        "countryKorName": "푸에르토리코"
+    },
+    {
+        "countryNameEn": "Palestine, State of",
+        "countryCode": "PS",
+        "region": "Arab States",
+        "flag": "🇵🇸",
+        "countryKorName": "팔레스타인"
+    },
+    {
+        "countryNameEn": "Portugal",
+        "countryCode": "PT",
+        "region": "Europe",
+        "flag": "🇵🇹",
+        "countryKorName": "포르투갈"
+    },
+    {
+        "countryNameEn": "Palau",
+        "countryCode": "PW",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇼",
+        "countryKorName": "팔라우"
+    },
+    {
+        "countryNameEn": "Paraguay",
+        "countryCode": "PY",
+        "region": "South/Latin America",
+        "flag": "🇵🇾",
+        "countryKorName": "파라과이"
+    },
+    {
+        "countryNameEn": "Qatar",
+        "countryCode": "QA",
+        "region": "Arab States",
+        "flag": "🇶🇦",
+        "countryKorName": "카타르"
+    },
+    {
+        "countryNameEn": "Réunion",
+        "countryCode": "RE",
+        "region": "Asia & Pacific",
+        "flag": "🇷🇪",
+        "countryKorName": "레위니옹"
+    },
+    {
+        "countryNameEn": "Romania",
+        "countryCode": "RO",
+        "region": "Europe",
+        "flag": "🇷🇴",
+        "countryKorName": "루마니아"
+    },
+    {
+        "countryNameEn": "Serbia",
+        "countryCode": "RS",
+        "region": "Europe",
+        "flag": "🇷🇸",
+        "countryKorName": "세르비아"
+    },
+    {
+        "countryNameEn": "Russia",
+        "countryCode": "RU",
+        "region": "Europe",
+        "flag": "🇷🇺",
+        "countryKorName": "러시아"
+    },
+    {
+        "countryNameEn": "Rwanda",
+        "countryCode": "RW",
+        "region": "Africa",
+        "flag": "🇷🇼",
+        "countryKorName": "르완다"
+    },
+    {
+        "countryNameEn": "Saudi Arabia",
+        "countryCode": "SA",
+        "region": "Arab States",
+        "flag": "🇸🇦",
+        "countryKorName": "사우디아라비아"
+    },
+    {
+        "countryNameEn": "Solomon Islands",
+        "countryCode": "SB",
+        "region": "Asia & Pacific",
+        "flag": "🇸🇧",
+        "countryKorName": "솔로몬 제도"
+    },
+    {
+        "countryNameEn": "Seychelles",
+        "countryCode": "SC",
+        "region": "Africa",
+        "flag": "🇸🇨",
+        "countryKorName": "세이셸"
+    },
+    {
+        "countryNameEn": "Sweden",
+        "countryCode": "SE",
+        "region": "Europe",
+        "flag": "🇸🇪",
+        "countryKorName": "스웨덴"
+    },
+    {
+        "countryNameEn": "Singapore",
+        "countryCode": "SG",
+        "region": "Asia & Pacific",
+        "flag": "🇸🇬",
+        "countryKorName": "싱가포르"
+    },
+    {
+        "countryNameEn": "Saint Helena, Ascension and Tristan da Cunha",
+        "countryCode": "SH",
+        "region": "Africa",
+        "flag": "🇸🇭",
+        "countryKorName": "세인트헬레나"
+    },
+    {
+        "countryNameEn": "Slovenia",
+        "countryCode": "SI",
+        "region": "Europe",
+        "flag": "🇸🇮",
+        "countryKorName": "슬로베니아"
+    },
+    {
+        "countryNameEn": "Svalbard and Jan Mayen",
+        "countryCode": "SJ",
+        "region": "Europe",
+        "flag": "🇸🇯",
+        "countryKorName": "스발바르 얀마옌"
+    },
+    {
+        "countryNameEn": "Slovakia",
+        "countryCode": "SK",
+        "region": "Europe",
+        "flag": "🇸🇰",
+        "countryKorName": "슬로바키아"
+    },
+    {
+        "countryNameEn": "Sierra Leone",
+        "countryCode": "SL",
+        "region": "Africa",
+        "flag": "🇸🇱",
+        "countryKorName": "시에라리온"
+    },
+    {
+        "countryNameEn": "Republic of San Marino",
+        "countryCode": "SM",
+        "region": "Europe",
+        "flag": "🇸🇲",
+        "countryKorName": "산마리노"
+    },
+    {
+        "countryNameEn": "Senegal",
+        "countryCode": "SN",
+        "region": "Africa",
+        "flag": "🇸🇳",
+        "countryKorName": "세네갈"
+    },
+    {
+        "countryNameEn": "Somalia",
+        "countryCode": "SO",
+        "region": "Arab States",
+        "flag": "🇸🇴",
+        "countryKorName": "소말리아"
+    },
+    {
+        "countryNameEn": "Suriname",
+        "countryCode": "SR",
+        "region": "South/Latin America",
+        "flag": "🇸🇷",
+        "countryKorName": "수리남"
+    },
+    {
+        "countryNameEn": "South Sudan",
+        "countryCode": "SS",
+        "region": "Africa",
+        "flag": "🇸🇸",
+        "countryKorName": "남수단"
+    },
+    {
+        "countryNameEn": "Sao Tome and Principe",
+        "countryCode": "ST",
+        "region": "Africa",
+        "flag": "🇸🇹",
+        "countryKorName": "상투메 프린시페"
+    },
+    {
+        "countryNameEn": "El Salvador",
+        "countryCode": "SV",
+        "region": "South/Latin America",
+        "flag": "🇸🇻",
+        "countryKorName": "엘살바도르"
+    },
+    {
+        "countryNameEn": "Sint Maarten (Dutch part)",
+        "countryCode": "SX",
+        "region": "Unknown",
+        "flag": "🇸🇽",
+        "countryKorName": "신트마르턴"
+    },
+    {
+        "countryNameEn": "Syrian Arab Republic",
+        "countryCode": "SY",
+        "region": "Asia & Pacific",
+        "flag": "🇸🇾",
+        "countryKorName": "시리아"
+    },
+    {
+        "countryNameEn": "Chad",
+        "countryCode": "TD",
+        "region": "Africa",
+        "flag": "🇹🇩",
+        "countryKorName": "차드"
+    },
+    {
+        "countryNameEn": "Togo",
+        "countryCode": "TG",
+        "region": "Africa",
+        "flag": "🇹🇬",
+        "countryKorName": "토고"
+    },
+    {
+        "countryNameEn": "Thailand",
+        "countryCode": "TH",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇭",
+        "countryKorName": "태국"
+    },
+    {
+        "countryNameEn": "Tajikistan",
+        "countryCode": "TJ",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇯",
+        "countryKorName": "타지키스탄"
+    },
+    {
+        "countryNameEn": "Tokelau",
+        "countryCode": "TK",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇰",
+        "countryKorName": "토켈라우"
+    },
+    {
+        "countryNameEn": "Timor-Leste",
+        "countryCode": "TL",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇱",
+        "countryKorName": "동티모르"
+    },
+    {
+        "countryNameEn": "Turkmenistan",
+        "countryCode": "TM",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇲",
+        "countryKorName": "투르크메니스탄"
+    },
+    {
+        "countryNameEn": "Tunisia",
+        "countryCode": "TN",
+        "region": "Arab States",
+        "flag": "🇹🇳",
+        "countryKorName": "튀니지"
+    },
+    {
+        "countryNameEn": "Tonga",
+        "countryCode": "TO",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇴",
+        "countryKorName": "통가"
+    },
+    {
+        "countryNameEn": "Turkey",
+        "countryCode": "TR",
+        "region": "Europe",
+        "flag": "🇹🇷",
+        "countryKorName": "튀르키예"
+    },
+    {
+        "countryNameEn": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "region": "South/Latin America",
+        "flag": "🇹🇹",
+        "countryKorName": "트리니다드 토바고"
+    },
+    {
+        "countryNameEn": "Tuvalu",
+        "countryCode": "TV",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇻",
+        "countryKorName": "투발루"
+    },
+    {
+        "countryNameEn": "United Republic of Tanzania",
+        "countryCode": "TZ",
+        "region": "Africa",
+        "flag": "🇹🇿",
+        "countryKorName": "탄자니아"
+    },
+    {
+        "countryNameEn": "Ukraine",
+        "countryCode": "UA",
+        "region": "Europe",
+        "flag": "🇺🇦",
+        "countryKorName": "우크라이나"
+    },
+    {
+        "countryNameEn": "Uganda",
+        "countryCode": "UG",
+        "region": "Africa",
+        "flag": "🇺🇬",
+        "countryKorName": "우간다"
+    },
+    {
+        "countryNameEn": "United States of America",
+        "countryCode": "US",
+        "region": "North America",
+        "flag": "🇺🇸",
+        "countryKorName": "미국"
+    },
+    {
+        "countryNameEn": "Uruguay",
+        "countryCode": "UY",
+        "region": "South/Latin America",
+        "flag": "🇺🇾",
+        "countryKorName": "우루과이"
+    },
+    {
+        "countryNameEn": "Uzbekistan",
+        "countryCode": "UZ",
+        "region": "Asia & Pacific",
+        "flag": "🇺🇿",
+        "countryKorName": "우즈베키스탄"
+    },
+    {
+        "countryNameEn": "Saint Vincent and the Grenadines",
+        "countryCode": "VC",
+        "region": "South/Latin America",
+        "flag": "🇻🇨",
+        "countryKorName": "세인트빈센트 그레나딘"
+    },
+    {
+        "countryNameEn": "Venezuela (Bolivarian Republic of)",
+        "countryCode": "VE",
+        "region": "South/Latin America",
+        "flag": "🇻🇪",
+        "countryKorName": "베네수엘라"
+    },
+    {
+        "countryNameEn": "Virgin Islands (British)",
+        "countryCode": "VG",
+        "region": "South/Latin America",
+        "flag": "🇻🇬",
+        "countryKorName": "영국령 버진아일랜드"
+    },
+    {
+        "countryNameEn": "Virgin Islands (U.S.)",
+        "countryCode": "VI",
+        "region": "South/Latin America",
+        "flag": "🇻🇮",
+        "countryKorName": "미국령 버진아일랜드"
+    },
+    {
+        "countryNameEn": "Vietnam",
+        "countryCode": "VN",
+        "region": "Asia & Pacific",
+        "flag": "🇻🇳",
+        "countryKorName": "베트남"
+    },
+    {
+        "countryNameEn": "Vanuatu",
+        "countryCode": "VU",
+        "region": "Asia & Pacific",
+        "flag": "🇻🇺",
+        "countryKorName": "바누아투"
+    },
+    {
+        "countryNameEn": "Wallis and Futuna",
+        "countryCode": "WF",
+        "region": "Asia & Pacific",
+        "flag": "🇼🇫",
+        "countryKorName": "왈리스 푸투나"
+    },
+    {
+        "countryNameEn": "Samoa",
+        "countryCode": "WS",
+        "region": "Asia & Pacific",
+        "flag": "🇼🇸",
+        "countryKorName": "사모아"
+    },
+    {
+        "countryNameEn": "Yemen",
+        "countryCode": "YE",
+        "region": "Arab States",
+        "flag": "🇾🇪",
+        "countryKorName": "예멘"
+    },
+    {
+        "countryNameEn": "Mayotte",
+        "countryCode": "YT",
+        "region": "Africa",
+        "flag": "🇾🇹",
+        "countryKorName": "마요트"
+    },
+    {
+        "countryNameEn": "South Africa",
+        "countryCode": "ZA",
+        "region": "Africa",
+        "flag": "🇿🇦",
+        "countryKorName": "남아프리카 공화국"
+    },
+    {
+        "countryNameEn": "Zambia",
+        "countryCode": "ZM",
+        "region": "Africa",
+        "flag": "🇿🇲",
+        "countryKorName": "잠비아"
+    },
+    {
+        "countryNameEn": "Zimbabwe",
+        "countryCode": "ZW",
+        "region": "Africa",
+        "flag": "🇿🇼",
+        "countryKorName": "짐바브웨"
+    },
+    {
+        "countryNameEn": "Eswatini",
+        "countryCode": "SZ",
+        "region": "Africa",
+        "flag": "🇸🇿",
+        "countryKorName": "에스와티니"
+    },
+    {
+        "countryNameEn": "North Macedonia",
+        "countryCode": "MK",
+        "region": "Europe",
+        "flag": "🇲🇰",
+        "countryKorName": "북마케도니아"
+    },
+    {
+        "countryNameEn": "Philippines",
+        "countryCode": "PH",
+        "region": "Asia & Pacific",
+        "flag": "🇵🇭",
+        "countryKorName": "필리핀"
+    },
+    {
+        "countryNameEn": "Netherlands",
+        "countryCode": "NL",
+        "region": "Europe",
+        "flag": "🇳🇱",
+        "countryKorName": "네덜란드"
+    },
+    {
+        "countryNameEn": "United Arab Emirates",
+        "countryCode": "AE",
+        "region": "Arab States",
+        "flag": "🇦🇪",
+        "countryKorName": "아랍에미리트"
+    },
+    {
+        "countryNameEn": "Republic of Moldova",
+        "countryCode": "MD",
+        "region": "Europe",
+        "flag": "🇲🇩",
+        "countryKorName": "몰도바"
+    },
+    {
+        "countryNameEn": "Gambia",
+        "countryCode": "GM",
+        "region": "Africa",
+        "flag": "🇬🇲",
+        "countryKorName": "감비아"
+    },
+    {
+        "countryNameEn": "Dominican Republic",
+        "countryCode": "DO",
+        "region": "South/Latin America",
+        "flag": "🇩🇴",
+        "countryKorName": "도미니카 공화국"
+    },
+    {
+        "countryNameEn": "Sudan",
+        "countryCode": "SD",
+        "region": "Arab States",
+        "flag": "🇸🇩",
+        "countryKorName": "수단"
+    },
+    {
+        "countryNameEn": "Lao People's Democratic Republic",
+        "countryCode": "LA",
+        "region": "Asia & Pacific",
+        "flag": "🇱🇦",
+        "countryKorName": "라오스"
+    },
+    {
+        "countryNameEn": "Taiwan, Province of China",
+        "countryCode": "TW",
+        "region": "Asia & Pacific",
+        "flag": "🇹🇼",
+        "countryKorName": "대만"
+    },
+    {
+        "countryNameEn": "Republic of the Congo",
+        "countryCode": "CG",
+        "region": "Africa",
+        "flag": "🇨🇬",
+        "countryKorName": "콩고 공화국"
+    },
+    {
+        "countryNameEn": "Czechia",
+        "countryCode": "CZ",
+        "region": "Europe",
+        "flag": "🇨🇿",
+        "countryKorName": "체코"
+    },
+    {
+        "countryNameEn": "United Kingdom",
+        "countryCode": "GB",
+        "region": "Europe",
+        "flag": "🇬🇧",
+        "countryKorName": "영국"
+    },
+    {
+        "countryNameEn": "Niger",
+        "countryCode": "NE",
+        "region": "Africa",
+        "flag": "🇳🇪",
+        "countryKorName": "니제르"
+    },
+    {
+        "countryNameEn": "Democratic Republic of the Congo",
+        "countryCode": "CD",
+        "region": "Africa",
+        "flag": "🇨🇩",
+        "countryKorName": "콩고 민주 공화국"
+    },
+    {
+        "countryNameEn": "Commonwealth of The Bahamas",
+        "countryCode": "BS",
+        "region": "Caribbean",
+        "flag": "🇧🇸",
+        "countryKorName": "바하마"
+    },
+    {
+        "countryNameEn": "Cocos (Keeling) Islands",
+        "countryCode": "CC",
+        "region": "Australia",
+        "flag": "🇨🇨",
+        "countryKorName": "코코스 제도"
+    },
+    {
+        "countryNameEn": "Central African Republic",
+        "countryCode": "CF",
+        "region": "Africa",
+        "flag": "🇨🇫",
+        "countryKorName": "중앙아프리카 공화국"
+    },
+    {
+        "countryNameEn": "Cook Islands",
+        "countryCode": "CK",
+        "region": "South Pacific Ocean",
+        "flag": "🇨🇰",
+        "countryKorName": "쿡 제도"
+    },
+    {
+        "countryNameEn": "Falkland Islands",
+        "countryCode": "FK",
+        "region": "South Atlantic Ocean",
+        "flag": "🇫🇰",
+        "countryKorName": "포클랜드 제도"
+    },
+    {
+        "countryNameEn": "Faroe Islands",
+        "countryCode": "FO",
+        "region": "Europe",
+        "flag": "🇫🇴",
+        "countryKorName": "페로 제도"
+    },
+    {
+        "countryNameEn": "Territory of Heard Island and McDonald Islands",
+        "countryCode": "HM",
+        "region": "Indian Ocean",
+        "flag": "🇭🇲",
+        "countryKorName": "허드 맥도널드 제도"
+    },
+    {
+        "countryNameEn": "British Indian Ocean Territory",
+        "countryCode": "IO",
+        "region": "Indian Ocean",
+        "flag": "🇮🇴",
+        "countryKorName": "영국령 인도양 지역"
+    },
+    {
+        "countryNameEn": "Comoros",
+        "countryCode": "KM",
+        "region": "Indian Ocean",
+        "flag": "🇰🇲",
+        "countryKorName": "코모로"
+    },
+    {
+        "countryNameEn": "Cayman Islands",
+        "countryCode": "KY",
+        "region": "Caribbean Sea",
+        "flag": "🇰🇾",
+        "countryKorName": "케이맨 제도"
+    },
+    {
+        "countryNameEn": "Republic of the Marshall Islands",
+        "countryCode": "MH",
+        "region": "Pacific Ocean",
+        "flag": "🇲🇭",
+        "countryKorName": "마셜 제도"
+    },
+    {
+        "countryNameEn": "Commonwealth of the Northern Mariana Islands",
+        "countryCode": "MP",
+        "region": "Pacific Ocean",
+        "flag": "🇲🇵",
+        "countryKorName": "북마리아나 제도"
+    },
+    {
+        "countryNameEn": "Turks and Caicos Islands",
+        "countryCode": "TC",
+        "region": "Atlantic Ocean",
+        "flag": "🇹🇨",
+        "countryKorName": "터크스 케이커스 제도"
+    },
+    {
+        "countryNameEn": "French Southern and Antarctic Lands",
+        "countryCode": "TF",
+        "region": "Indian Ocean",
+        "flag": "🇹🇫",
+        "countryKorName": "프랑스령 남방 및 남극 지역"
+    },
+    {
+        "countryNameEn": "United States Minor Outlying Islands",
+        "countryCode": "UM",
+        "region": "Pacific Ocean",
+        "flag": "🇺🇲",
+        "countryKorName": "미국령 군소 제도"
+    },
+    {
+        "countryNameEn": "Holy See",
+        "countryCode": "VA",
+        "region": "Europe",
+        "flag": "🇻🇦",
+        "countryKorName": "바티칸 시국"
+    }
+]
