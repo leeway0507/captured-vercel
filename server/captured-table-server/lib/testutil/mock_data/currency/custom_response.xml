@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>정상서비스.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>AE</cntySgn>
+                <currSgn>AED</currSgn>
+                <fxrt>363.85</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>UAE Dirham</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>AR</cntySgn>
+                <currSgn>ARS</currSgn>
+                <fxrt>1.63</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Argentine Peso</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>AU</cntySgn>
+                <currSgn>AUD</currSgn>
+                <fxrt>879.66</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Australian Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>BD</cntySgn>
+                <currSgn>BDT</currSgn>
+                <fxrt>12.18</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Taka</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>BH</cntySgn>
+                <currSgn>BHD</currSgn>
+                <fxrt>3544.92</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Bahraini Dinar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>BN</cntySgn>
+                <currSgn>BND</currSgn>
+                <fxrt>996.88</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Brunei Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>BR</cntySgn>
+                <currSgn>BRL</currSgn>
+                <fxrt>270.25</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Brazilian Real</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CA</cntySgn>
+                <currSgn>CAD</currSgn>
+                <fxrt>991.81</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Canadian Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CH</cntySgn>
+                <currSgn>CHF</currSgn>
+                <fxrt>1540.64</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Swiss Franc</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CL</cntySgn>
+                <currSgn>CLP</currSgn>
+                <fxrt>1.47</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Chilean Peso</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CN</cntySgn>
+                <currSgn>CNY</currSgn>
+                <fxrt>185.91</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Yuan Renminbi</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CO</cntySgn>
+                <currSgn>COP</currSgn>
+                <fxrt>0.34</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Colombian Peso</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>CZ</cntySgn>
+                <currSgn>CZK</currSgn>
+                <fxrt>58.56</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Czech Koruna</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>DK</cntySgn>
+                <currSgn>DKK</currSgn>
+                <fxrt>194.87</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Danish Krone</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>EG</cntySgn>
+                <currSgn>EGP</currSgn>
+                <fxrt>43.25</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Egyptian Pound</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>ET</cntySgn>
+                <currSgn>ETB</currSgn>
+                <fxrt>23.62</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Ethiopian Birr</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>EU</cntySgn>
+                <currSgn>EUR</currSgn>
+                <fxrt>1453.05</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Euro</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>FJ</cntySgn>
+                <currSgn>FJD</currSgn>
+                <fxrt>592.88</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Fiji Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>GB</cntySgn>
+                <currSgn>GBP</currSgn>
+                <fxrt>1698.12</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Pound Sterling</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>HK</cntySgn>
+                <currSgn>HKD</currSgn>
+                <fxrt>170.92</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Hong Kong Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>HU</cntySgn>
+                <currSgn>HUF</currSgn>
+                <fxrt>3.78</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Forint</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>ID</cntySgn>
+                <currSgn>IDR</currSgn>
+                <fxrt>0.0852</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Rupiah</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>IL</cntySgn>
+                <currSgn>ILS</currSgn>
+                <fxrt>358.03</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Shekel</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>IN</cntySgn>
+                <currSgn>INR</currSgn>
+                <fxrt>16.08</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Indian Rupee</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>JO</cntySgn>
+                <currSgn>JOD</currSgn>
+                <fxrt>1883.6</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Jordanian Dinar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>JP</cntySgn>
+                <currSgn>JPY</currSgn>
+                <fxrt>9.0333</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Yen</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>KE</cntySgn>
+                <currSgn>KES</currSgn>
+                <fxrt>8.21</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Kenyan Shilling</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>KH</cntySgn>
+                <currSgn>KHR</currSgn>
+                <fxrt>0.33</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Riel</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>KR</cntySgn>
+                <currSgn>KRW</currSgn>
+                <fxrt>1</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Won</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>KW</cntySgn>
+                <currSgn>KWD</currSgn>
+                <fxrt>4342.85</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Kuwaiti Dinar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>KZ</cntySgn>
+                <currSgn>KZT</currSgn>
+                <fxrt>2.99</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Kazakhstan tenge</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>LK</cntySgn>
+                <currSgn>LKR</currSgn>
+                <fxrt>4.19</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Sri Lanka Rupee</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>LY</cntySgn>
+                <currSgn>LYD</currSgn>
+                <fxrt>277.53</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Libyan Dinar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>MM</cntySgn>
+                <currSgn>MMK</currSgn>
+                <fxrt>0.64</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Kyat</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>MN</cntySgn>
+                <currSgn>MNT</currSgn>
+                <fxrt>0.39</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Tugrik</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>MO</cntySgn>
+                <currSgn>MOP</currSgn>
+                <fxrt>165.86</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Pataca</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>MX</cntySgn>
+                <currSgn>MXN</currSgn>
+                <fxrt>77.66</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Mexican Peso</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>MY</cntySgn>
+                <currSgn>MYR</currSgn>
+                <fxrt>282.73</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Malaysian Ringgit</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>NO</cntySgn>
+                <currSgn>NOK</currSgn>
+                <fxrt>127.48</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Norwegian Krone</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>NP</cntySgn>
+                <currSgn>NPR</currSgn>
+                <fxrt>10.05</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Nepalese Rupee</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>NZ</cntySgn>
+                <currSgn>NZD</currSgn>
+                <fxrt>815.62</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>New Zealand Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>OM</cntySgn>
+                <currSgn>OMR</currSgn>
+                <fxrt>3471.26</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Rial Omani</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>PH</cntySgn>
+                <currSgn>PHP</currSgn>
+                <fxrt>23.76</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Philippine Peso</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>PK</cntySgn>
+                <currSgn>PKR</currSgn>
+                <fxrt>4.79</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Pakistan Rupee</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>PL</cntySgn>
+                <currSgn>PLN</currSgn>
+                <fxrt>332.29</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Polish Zloty</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>QA</cntySgn>
+                <currSgn>QAR</currSgn>
+                <fxrt>366.66</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Qatari Rial</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>RO</cntySgn>
+                <currSgn>RON</currSgn>
+                <fxrt>291.94</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Romanian Leu</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>RU</cntySgn>
+                <currSgn>RUB</currSgn>
+                <fxrt>15.1</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Russian Rouble</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>SA</cntySgn>
+                <currSgn>SAR</currSgn>
+                <fxrt>356.34</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Saudi Riyal</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>SE</cntySgn>
+                <currSgn>SEK</currSgn>
+                <fxrt>127.76</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Swedish Krona</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>SG</cntySgn>
+                <currSgn>SGD</currSgn>
+                <fxrt>996.88</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Singapore Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>TH</cntySgn>
+                <currSgn>THB</currSgn>
+                <fxrt>37.46</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Baht</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>TR</cntySgn>
+                <currSgn>TRY</currSgn>
+                <fxrt>44.16</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Turkish Lira</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>TW</cntySgn>
+                <currSgn>TWD</currSgn>
+                <fxrt>42.6</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>New Taiwan Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>US</cntySgn>
+                <currSgn>USD</currSgn>
+                <fxrt>1336.4</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>US Dollar</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>UZ</cntySgn>
+                <currSgn>UZS</currSgn>
+                <fxrt>0.11</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Uzbekistan Sum</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>VN</cntySgn>
+                <currSgn>VND</currSgn>
+                <fxrt>0.0544</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Dong</mtryUtNm>
+            </item>
+            <item>
+                <aplyBgnDt>20240128</aplyBgnDt>
+                <cntySgn>ZA</cntySgn>
+                <currSgn>ZAR</currSgn>
+                <fxrt>70.29</fxrt>
+                <imexTp>2</imexTp>
+                <mtryUtNm>Rand</mtryUtNm>
+            </item>
+        </items>
+    </body>
+</response>

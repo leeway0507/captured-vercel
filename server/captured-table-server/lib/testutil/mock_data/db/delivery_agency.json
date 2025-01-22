@@ -1,0 +1,13 @@
+[
+    {
+        "country": "GB",
+        "currency": "GBP",
+        "VAT_reduction_rate": 0.05,
+        "shipping_fee": {
+            "Heavy": 20000,
+            "Light": 12000,
+            "Shoes": 25000
+        },
+        "updated_at": "2024-02-02T17:46:49Z"
+    }
+]

@@ -1,0 +1,380 @@
+basePath: /
+definitions:
+  ent.OrderHistory:
+    properties:
+      address_id:
+        description: AddressID holds the value of the "address_id" field.
+        type: string
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.OrderHistoryEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the OrderHistoryQuery when eager-loading is set.
+      id:
+        description: ID of the ent.
+        type: string
+      order_status:
+        description: OrderStatus holds the value of the "order_status" field.
+        type: string
+      order_total_price:
+        description: OrderTotalPrice holds the value of the "order_total_price" field.
+        type: integer
+      ordered_at:
+        description: OrderedAt holds the value of the "ordered_at" field.
+        type: string
+      payment_info:
+        description: PaymentInfo holds the value of the "payment_info" field.
+        type: string
+      payment_key:
+        description: PaymentKey holds the value of the "payment_key" field.
+        type: string
+      payment_method:
+        description: PaymentMethod holds the value of the "payment_method" field.
+        type: string
+      payment_status:
+        description: PaymentStatus holds the value of the "payment_status" field.
+        type: string
+      user_id:
+        description: UserID holds the value of the "user_id" field.
+        type: string
+      user_order_number:
+        description: UserOrderNumber holds the value of the "user_order_number" field.
+        type: integer
+    type: object
+  ent.OrderHistoryEdges:
+    properties:
+      order_rows:
+        description: OrderRows holds the value of the order_rows edge.
+        items:
+          $ref: '#/definitions/ent.OrderRow'
+        type: array
+      user:
+        allOf:
+        - $ref: '#/definitions/ent.User'
+        description: User holds the value of the user edge.
+      user_addre:
+        allOf:
+        - $ref: '#/definitions/ent.UserAddress'
+        description: UserAddre holds the value of the user_addre edge.
+    type: object
+  ent.OrderRow:
+    properties:
+      delivery_company:
+        description: DeliveryCompany holds the value of the "delivery_company" field.
+        type: string
+      delivery_number:
+        description: DeliveryNumber holds the value of the "delivery_number" field.
+        type: string
+      delivery_status:
+        description: DeliveryStatus holds the value of the "delivery_status" field.
+        type: string
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.OrderRowEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the OrderRowQuery when eager-loading is set.
+      id:
+        description: ID of the ent.
+        type: integer
+      order_id:
+        description: OrderID holds the value of the "order_id" field.
+        type: string
+      quantity:
+        description: Quantity holds the value of the "quantity" field.
+        type: integer
+      size:
+        description: Size holds the value of the "size" field.
+        type: string
+      sku:
+        description: Sku holds the value of the "sku" field.
+        type: integer
+    type: object
+  ent.OrderRowEdges:
+    properties:
+      order_history:
+        allOf:
+        - $ref: '#/definitions/ent.OrderHistory'
+        description: OrderHistory holds the value of the order_history edge.
+      product_info:
+        allOf:
+        - $ref: '#/definitions/ent.ProductInfo'
+        description: ProductInfo holds the value of the product_info edge.
+    type: object
+  ent.ProductInfo:
+    properties:
+      brand:
+        description: Brand holds the value of the "brand" field.
+        type: string
+      category:
+        description: Category holds the value of the "category" field.
+        type: string
+      categorySpec:
+        description: CategorySpec holds the value of the "categorySpec" field.
+        type: string
+      color:
+        description: Color holds the value of the "color" field.
+        type: string
+      deploy:
+        description: Deploy holds the value of the "deploy" field.
+        type: integer
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.ProductInfoEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the ProductInfoQuery when eager-loading is set.
+      imgType:
+        description: ImgType holds the value of the "imgType" field.
+        type: string
+      intl:
+        description: Intl holds the value of the "intl" field.
+        type: boolean
+      korBrand:
+        description: KorBrand holds the value of the "korBrand" field.
+        type: string
+      korProductName:
+        description: KorProductName holds the value of the "korProductName" field.
+        type: string
+      price:
+        description: Price holds the value of the "price" field.
+        type: integer
+      priceAscCursor:
+        description: PriceAscCursor holds the value of the "priceAscCursor" field.
+        type: string
+      priceDescCursor:
+        description: PriceDescCursor holds the value of the "priceDescCursor" field.
+        type: string
+      productId:
+        description: ProductID holds the value of the "productId" field.
+        type: string
+      productName:
+        description: ProductName holds the value of the "productName" field.
+        type: string
+      searchInfo:
+        description: SearchInfo holds the value of the "searchInfo" field.
+        type: string
+      shippingFee:
+        description: ShippingFee holds the value of the "shippingFee" field.
+        type: integer
+      sku:
+        description: ID of the ent.
+        type: integer
+    type: object
+  ent.ProductInfoEdges:
+    properties:
+      order_rows:
+        description: OrderRows holds the value of the order_rows edge.
+        items:
+          $ref: '#/definitions/ent.OrderRow'
+        type: array
+      sizes:
+        description: Sizes holds the value of the sizes edge.
+        items:
+          $ref: '#/definitions/ent.Size'
+        type: array
+    type: object
+  ent.Size:
+    properties:
+      available:
+        description: Available holds the value of the "available" field.
+        type: boolean
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.SizeEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the SizeQuery when eager-loading is set.
+      id:
+        description: ID of the ent.
+        type: integer
+      size:
+        description: Size holds the value of the "size" field.
+        type: string
+      sku:
+        description: Sku holds the value of the "sku" field.
+        type: integer
+      updated_at:
+        description: UpdatedAt holds the value of the "updated_at" field.
+        type: string
+    type: object
+  ent.SizeEdges:
+    properties:
+      product_info:
+        allOf:
+        - $ref: '#/definitions/ent.ProductInfo'
+        description: ProductInfo holds the value of the product_info edge.
+    type: object
+  ent.User:
+    properties:
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.UserEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the UserQuery when eager-loading is set.
+      email:
+        description: Email holds the value of the "email" field.
+        type: string
+      id:
+        description: ID of the ent.
+        type: string
+      kr_name:
+        description: KrName holds the value of the "kr_name" field.
+        type: string
+      last_login:
+        description: LastLogin holds the value of the "last_login" field.
+        type: string
+      password:
+        description: Password holds the value of the "password" field.
+        type: string
+      register_at:
+        description: RegisterAt holds the value of the "register_at" field.
+        type: string
+      sign_up_type:
+        description: SignUpType holds the value of the "sign_up_type" field.
+        type: string
+    type: object
+  ent.UserAddress:
+    properties:
+      custom_id:
+        description: CustomID holds the value of the "custom_id" field.
+        type: string
+      edges:
+        allOf:
+        - $ref: '#/definitions/ent.UserAddressEdges'
+        description: |-
+          Edges holds the relations/edges for other nodes in the graph.
+          The values are being populated by the UserAddressQuery when eager-loading is set.
+      en_address:
+        description: EnAddress holds the value of the "en_address" field.
+        type: string
+      en_address_detail:
+        description: EnAddressDetail holds the value of the "en_address_detail" field.
+        type: string
+      en_name:
+        description: EnName holds the value of the "en_name" field.
+        type: string
+      id:
+        description: ID of the ent.
+        type: string
+      kr_address:
+        description: KrAddress holds the value of the "kr_address" field.
+        type: string
+      kr_address_detail:
+        description: KrAddressDetail holds the value of the "kr_address_detail" field.
+        type: string
+      kr_name:
+        description: KrName holds the value of the "kr_name" field.
+        type: string
+      permanent:
+        description: Permanent holds the value of the "permanent" field.
+        type: boolean
+      phone:
+        description: Phone holds the value of the "phone" field.
+        type: string
+      user_id:
+        description: UserID holds the value of the "user_id" field.
+        type: string
+    type: object
+  ent.UserAddressEdges:
+    properties:
+      order_histories:
+        description: OrderHistories holds the value of the order_histories edge.
+        items:
+          $ref: '#/definitions/ent.OrderHistory'
+        type: array
+      user:
+        allOf:
+        - $ref: '#/definitions/ent.User'
+        description: User holds the value of the user edge.
+    type: object
+  ent.UserEdges:
+    properties:
+      order_histories:
+        description: OrderHistories holds the value of the order_histories edge.
+        items:
+          $ref: '#/definitions/ent.OrderHistory'
+        type: array
+      user_address:
+        description: UserAddress holds the value of the user_address edge.
+        items:
+          $ref: '#/definitions/ent.UserAddress'
+        type: array
+    type: object
+  entities.Filter:
+    properties:
+      brand:
+        type: string
+      category:
+        type: string
+      categorySpec:
+        items:
+          type: string
+        type: array
+      intl:
+        type: string
+      price:
+        items:
+          type: integer
+        type: array
+      sizeArray:
+        type: string
+      sortBy:
+        type: string
+    type: object
+host: localhost:8080
+info:
+  contact:
+    email: fiber@swagger.io
+    name: API Support
+  description: This is a sample swagger for Fiber
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfService: http://swagger.io/terms/
+  title: CAPTURED BACKEND
+  version: "1.0"
+paths:
+  /api/product/category:
+    post:
+      consumes:
+      - application/json
+      parameters:
+      - description: Page number
+        in: query
+        name: page
+        required: true
+        type: integer
+      - description: Filter Body
+        in: body
+        name: filter
+        required: true
+        schema:
+          $ref: '#/definitions/entities.Filter'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              items:
+                $ref: '#/definitions/ent.ProductInfo'
+              type: array
+            type: array
+        "400":
+          description: Bad Request
+          schema:
+            type: int
+        "404":
+          description: Not Found
+          schema:
+            type: int
+        "500":
+          description: Internal Server Error
+          schema:
+            type: int
+      summary: category
+swagger: "2.0"

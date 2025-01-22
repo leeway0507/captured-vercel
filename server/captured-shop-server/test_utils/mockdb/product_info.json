@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "brand": "patagonia",
+        "product_name": "women's microdini fleece pullover black",
+        "product_id": "26260-BLK",
+        "shipping_fee": 15000,
+        "price": 245000,
+        "intl": true,
+        "search_info": "patagonia 파타고니아 women's microdini fleece pullover black 우먼스 플리스 풀오버 블랙 26260-BLK",
+        "color": "BLACK",
+        "category": "의류",
+        "category_spec": "후리스",
+        "img_type": "webp",
+        "price_desc_cursor": "24500000001",
+        "price_asc_cursor": "75499999999",
+        "deploy": 1,
+        "kor_brand": "파타고니아",
+        "kor_product_name": "우먼스 플리스 풀오버 블랙"
+    }
+]

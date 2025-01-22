@@ -1,0 +1,10 @@
+# dotenv environment variable files
+.env.dev
+.env.production
+.env.local
+.env.test
+tmp
+pipe/data
+.DS_Store
+
+./lib/currency/data

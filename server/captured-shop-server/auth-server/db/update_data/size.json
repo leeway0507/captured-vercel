@@ -1,0 +1,1598 @@
+[
+  {
+    "size_id": 457,
+    "sku": 1,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 458,
+    "sku": 1,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 459,
+    "sku": 1,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 460,
+    "sku": 1,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 461,
+    "sku": 1,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 462,
+    "sku": 2,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 463,
+    "sku": 2,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 464,
+    "sku": 2,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 465,
+    "sku": 2,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 466,
+    "sku": 2,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 467,
+    "sku": 2,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 468,
+    "sku": 2,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 469,
+    "sku": 3,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 470,
+    "sku": 3,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 471,
+    "sku": 3,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 472,
+    "sku": 3,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 473,
+    "sku": 3,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 474,
+    "sku": 70,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 475,
+    "sku": 70,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 476,
+    "sku": 70,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 477,
+    "sku": 70,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 478,
+    "sku": 71,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 479,
+    "sku": 71,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 480,
+    "sku": 71,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 481,
+    "sku": 71,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 482,
+    "sku": 71,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 483,
+    "sku": 71,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 484,
+    "sku": 71,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 485,
+    "sku": 71,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 486,
+    "sku": 71,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 487,
+    "sku": 72,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 488,
+    "sku": 72,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 489,
+    "sku": 72,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 490,
+    "sku": 72,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 491,
+    "sku": 72,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 492,
+    "sku": 72,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 493,
+    "sku": 72,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 494,
+    "sku": 72,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 495,
+    "sku": 73,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 496,
+    "sku": 74,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 497,
+    "sku": 74,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 498,
+    "sku": 74,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 499,
+    "sku": 74,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 500,
+    "sku": 74,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 501,
+    "sku": 74,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 502,
+    "sku": 75,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 503,
+    "sku": 75,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 504,
+    "sku": 75,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 505,
+    "sku": 75,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 506,
+    "sku": 75,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 507,
+    "sku": 75,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 508,
+    "sku": 75,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 509,
+    "sku": 76,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 510,
+    "sku": 76,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 511,
+    "sku": 76,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 512,
+    "sku": 76,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 513,
+    "sku": 76,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 514,
+    "sku": 76,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 515,
+    "sku": 76,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 516,
+    "sku": 76,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 517,
+    "sku": 76,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 518,
+    "sku": 77,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 519,
+    "sku": 77,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 520,
+    "sku": 77,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 521,
+    "sku": 77,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 522,
+    "sku": 77,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 523,
+    "sku": 77,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 524,
+    "sku": 78,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 525,
+    "sku": 79,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 526,
+    "sku": 79,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 527,
+    "sku": 79,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 528,
+    "sku": 79,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 529,
+    "sku": 79,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 530,
+    "sku": 79,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 531,
+    "sku": 79,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 532,
+    "sku": 79,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 533,
+    "sku": 79,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 534,
+    "sku": 80,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 535,
+    "sku": 80,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 536,
+    "sku": 80,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 537,
+    "sku": 80,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 538,
+    "sku": 80,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 539,
+    "sku": 81,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 540,
+    "sku": 81,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 541,
+    "sku": 81,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 542,
+    "sku": 81,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 543,
+    "sku": 81,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 544,
+    "sku": 81,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 545,
+    "sku": 81,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 546,
+    "sku": 82,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 547,
+    "sku": 82,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 548,
+    "sku": 82,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 549,
+    "sku": 82,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 550,
+    "sku": 82,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 551,
+    "sku": 82,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 552,
+    "sku": 82,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 553,
+    "sku": 82,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 554,
+    "sku": 82,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 555,
+    "sku": 82,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 556,
+    "sku": 82,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 557,
+    "sku": 83,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 558,
+    "sku": 83,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 559,
+    "sku": 83,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 560,
+    "sku": 83,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 561,
+    "sku": 83,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 562,
+    "sku": 83,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 563,
+    "sku": 83,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 564,
+    "sku": 83,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 565,
+    "sku": 83,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 566,
+    "sku": 83,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 567,
+    "sku": 83,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 568,
+    "sku": 83,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 569,
+    "sku": 84,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 570,
+    "sku": 84,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 571,
+    "sku": 84,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 572,
+    "sku": 84,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 573,
+    "sku": 84,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 574,
+    "sku": 84,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 575,
+    "sku": 84,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 576,
+    "sku": 84,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 577,
+    "sku": 84,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 578,
+    "sku": 84,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 579,
+    "sku": 85,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 580,
+    "sku": 85,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 581,
+    "sku": 85,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 582,
+    "sku": 86,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 583,
+    "sku": 86,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 584,
+    "sku": 86,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 585,
+    "sku": 86,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 586,
+    "sku": 86,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 587,
+    "sku": 86,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 588,
+    "sku": 86,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 589,
+    "sku": 86,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 590,
+    "sku": 86,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 591,
+    "sku": 86,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 592,
+    "sku": 87,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 593,
+    "sku": 87,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 594,
+    "sku": 87,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 595,
+    "sku": 87,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 596,
+    "sku": 87,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 597,
+    "sku": 87,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 598,
+    "sku": 88,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 599,
+    "sku": 88,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 600,
+    "sku": 88,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 601,
+    "sku": 88,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 602,
+    "sku": 88,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 603,
+    "sku": 88,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 604,
+    "sku": 88,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 605,
+    "sku": 88,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 606,
+    "sku": 89,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 607,
+    "sku": 89,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 608,
+    "sku": 89,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 609,
+    "sku": 89,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 610,
+    "sku": 89,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 611,
+    "sku": 89,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 612,
+    "sku": 89,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 613,
+    "sku": 89,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 614,
+    "sku": 89,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 615,
+    "sku": 89,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 616,
+    "sku": 90,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 617,
+    "sku": 90,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 618,
+    "sku": 90,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 619,
+    "sku": 90,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 620,
+    "sku": 90,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 621,
+    "sku": 90,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 622,
+    "sku": 90,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 623,
+    "sku": 90,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 624,
+    "sku": 90,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 625,
+    "sku": 91,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 626,
+    "sku": 91,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 627,
+    "sku": 91,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 628,
+    "sku": 91,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 629,
+    "sku": 91,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 630,
+    "sku": 91,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 631,
+    "sku": 91,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 632,
+    "sku": 91,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 633,
+    "sku": 91,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 634,
+    "sku": 92,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 635,
+    "sku": 92,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 636,
+    "sku": 92,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 637,
+    "sku": 92,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 638,
+    "sku": 92,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 639,
+    "sku": 92,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 640,
+    "sku": 93,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 641,
+    "sku": 93,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 642,
+    "sku": 93,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 643,
+    "sku": 93,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 644,
+    "sku": 93,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 645,
+    "sku": 93,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 646,
+    "sku": 94,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 647,
+    "sku": 94,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 648,
+    "sku": 94,
+    "size": "225",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 649,
+    "sku": 94,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 650,
+    "sku": 94,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 651,
+    "sku": 94,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 652,
+    "sku": 94,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 653,
+    "sku": 94,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 654,
+    "sku": 95,
+    "size": "300",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 655,
+    "sku": 95,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 656,
+    "sku": 95,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 657,
+    "sku": 95,
+    "size": "235",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 658,
+    "sku": 96,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 659,
+    "sku": 96,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 660,
+    "sku": 97,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 661,
+    "sku": 97,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 662,
+    "sku": 97,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 663,
+    "sku": 97,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 664,
+    "sku": 97,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 665,
+    "sku": 97,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 666,
+    "sku": 97,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 667,
+    "sku": 97,
+    "size": "275",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 668,
+    "sku": 97,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 669,
+    "sku": 97,
+    "size": "250",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 670,
+    "sku": 98,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 671,
+    "sku": 98,
+    "size": "265",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 672,
+    "sku": 99,
+    "size": "295",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 673,
+    "sku": 99,
+    "size": "290",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 674,
+    "sku": 99,
+    "size": "245",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 675,
+    "sku": 99,
+    "size": "285",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 676,
+    "sku": 99,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 677,
+    "sku": 99,
+    "size": "240",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 678,
+    "sku": 99,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 679,
+    "sku": 99,
+    "size": "230",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 680,
+    "sku": 99,
+    "size": "255",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 681,
+    "sku": 99,
+    "size": "220",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 682,
+    "sku": 100,
+    "size": "280",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 683,
+    "sku": 100,
+    "size": "270",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  },
+  {
+    "size_id": 684,
+    "sku": 100,
+    "size": "260",
+    "available": 1,
+    "updated_at": "2023-10-12 23:00:02"
+  }
+]

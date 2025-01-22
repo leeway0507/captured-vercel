@@ -1,0 +1,39 @@
+[
+    {
+        "user_id": "6x8w1PfgbrODnDE2F0ZrCE0frvBVLAITJgPVLlXHyYc",
+        "kr_name": "이양우",
+        "en_name": "yangwoo lee",
+        "custom_id": "p102392382",
+        "phone": "010-686-63402",
+        "kr_address": "서울 양천구 목동중앙로 143(목동1차우성아파트)",
+        "kr_address_detail": "101,801 143 Mokdongjungang-ro, Yangcheon-gu, Seoul",
+        "en_address": "143, Mokdongjungang-ro, Yangcheon-gu, Seoul, Korea",
+        "en_address_detail": ""
+    },
+    {
+        "address_id": "UA-73bb6696b10a11eebbae56c54ce9fb28-0",
+        "user_id": "73bb6696b10a11eebbae56c54ce9fb28",
+        "kr_name": "이양우",
+        "en_name": "lee",
+        "custom_id": "p929283828",
+        "phone": "01068663403",
+        "kr_address": "서울 양천구 목동남로 24",
+        "kr_address_detail": "101,801 143 Mokdongjungang-ro, Yangcheon-gu, Seoul",
+        "en_address": "24, Mokdongnam-ro, Yangcheon-gu, Seoul, Korea",
+        "en_address_detail": "",
+        "permanent": 0
+    },
+    {
+        "address_id": "UA-fad3e654b10411eead6d56c54ce9fb28-0",
+        "user_id": "fad3e654b10411eead6d56c54ce9fb28",
+        "kr_name": "이양",
+        "en_name": "yangwoo lee",
+        "custom_id": "P923059333",
+        "phone": "07481914136",
+        "kr_address": "서울 양천구 공항대로 530",
+        "kr_address_detail": "New York Girls",
+        "en_address": "530, Gonghang-daero, Yangcheon-gu, Seoul, Korea",
+        "en_address_detail": "Unit 2, Links Industrial Estate, Popham Close, Han",
+        "permanent": 0
+    }
+]

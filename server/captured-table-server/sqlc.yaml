@@ -1,0 +1,16 @@
+version: "2"
+sql:
+  - engine: "mysql"
+    queries: "db/sql/query.sql"
+    schema: "db/sql/schema.sql"
+    gen:
+      go:
+        package: "db"
+        out: "db"
+        sql_package: "database/sql"
+        sql_driver: "github.com/go-sql-driver/mysql"
+        overrides:
+          - column: "stores.intl_shipping_fee"
+            go_type:
+              type: "ShippingFee"
+        emit_json_tags: true

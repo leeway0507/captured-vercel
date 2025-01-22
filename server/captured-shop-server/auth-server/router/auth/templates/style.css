@@ -1,0 +1,31 @@
+
+    h1,h2  {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 600px;
+        padding: 0;
+        font-family: sans-serif;
+        color: #212121;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .image_size {
+        width: 200px;
+        height: auto;
+    }
+    .verification-code{
+        padding-top: 50px;
+        line-height: 1.5;
+    }
+    .info{
+        padding-top: 50px;
+        line-height: 0.6;
+    }
