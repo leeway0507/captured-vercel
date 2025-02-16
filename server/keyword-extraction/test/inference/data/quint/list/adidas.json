@@ -1,0 +1,38 @@
+[
+    {
+        "brand": "adidas",
+        "productName": "adidas originals shoes handball spezial ig6194 blue",
+        "productImgUrl": "https://admin.kaufmannstatic.com/Images/188698_blå_01-T20240404080754.jpg?i=188698_blå_01-T20240404080754.jpg&amp;w=370&amp;h=370&amp;bgcolor=ffffff",
+        "productUrl": "https://www.quint-shop.com/en/adidasoriginals/shoes/handballspezialig6194-blue?id=188698-140",
+        "currencyCode": "EUR",
+        "retailPrice": "121",
+        "salePrice": "121",
+        "isSale": false,
+        "productId": "ig6194",
+        "color": "blue"
+    },
+    {
+        "brand": "adidas",
+        "productName": "adidas originals shorts sprinter shorts black",
+        "productImgUrl": "https://admin.kaufmannstatic.com/Images/188696_sort_01-T20240404011610.jpg?i=188696_sort_01-T20240404011610.jpg&amp;w=370&amp;h=370&amp;bgcolor=ffffff",
+        "productUrl": "https://www.quint-shop.com/en/adidasoriginals/shorts/sprintershorts-black?id=188696-070",
+        "currencyCode": "EUR",
+        "retailPrice": "54",
+        "salePrice": "54",
+        "isSale": false,
+        "productId": "-",
+        "color": "black"
+    },
+    {
+        "brand": "adidas",
+        "productName": "adidas originals shoes samba og if3814 blue white gum",
+        "productImgUrl": "https://admin.kaufmannstatic.com/Images/188701_hvid;$;blå_01-T20240402093136.jpg?i=188701_hvid;$;blå_01-T20240402093136.jpg&amp;w=370&amp;h=370&amp;bgcolor=ffffff",
+        "productUrl": "https://www.quint-shop.com/en/adidasoriginals/shoes/sambaogif3814-blue?id=188701-097",
+        "currencyCode": "EUR",
+        "retailPrice": "135",
+        "salePrice": "135",
+        "isSale": false,
+        "productId": "if3814",
+        "color": "blue white gum"
+    }
+]

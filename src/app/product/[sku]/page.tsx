@@ -23,10 +23,7 @@ async function Page({ params }: { params: ParamsProps }) {
     const { sku } = params
     return (
         <>
-            <Suspense>
-                <JsonLDComponent sku={sku} />
-            </Suspense>
-
+            <JsonLDComponent sku={sku} />
             <Suspense fallback={<Spinner />}>
                 <ProductWrapper sku={sku} />
             </Suspense>
