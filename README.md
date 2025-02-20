@@ -38,11 +38,21 @@
 
 #### React 18의 서버 기능을 정리하고 학습한 내용을 기반으로 리팩토링
 
--   [1부: React 18이 해결하고자 하는 문제들](https://leeway0507.github.io/blog/Frontend/react18)
+-   [1부: React 18이 해결하고자 하는 문제들](https://leeway0507.github.io/blog/frontend/react18)
 
--   [2부: Next.js App Router 코드로 이해하기](https://leeway0507.github.io/blog/Frontend/app-router)
+    React 18의 신규 기능인 스트림 기반 SSR과 서버 컴포넌트가 개별적으로 어떠한 문제를 해결하기 위해 고안되었는지, 어떠한 방식으로 이를 해결하였는지를 다루었습니다.
 
--   [[React] 다양한 의미로 쓰이는 렌더링 이해하기](https://leeway0507.github.io/blog/Frontend/rendering)
+    또한 React 팀이 제공한 서버 컴포넌트 데모 코드를 분석하여 서버 컴포넌트가 실제 처리되는 절차를 정리했습니다.
+
+-   [2부: Next.js App Router 코드로 이해하기](https://leeway0507.github.io/blog/frontend/app-router)
+
+    Next.js App Router가 사용자 요청을 처리하는 전체 흐름을 코드 기반으로 정리했습니다.
+    구체적으로는 Next.js 서버가 실행되는 흐름, 사용자가 홈페이지에 접속했을 때 서버의 처리절차,
+    서버로부터 받은 HTML을 Next.js가 Hydration하는 절차를 분석했습니다.
+
+-   [[React] 다양한 의미로 쓰이는 렌더링 이해하기](https://leeway0507.github.io/blog/frontend/rendering)
+
+    서버 사이드 렌더링과 브라우저 렌더링을 리액트 렌더링과 연관지어 정리했습니다.
 
 <br/>
 
@@ -86,10 +96,7 @@
 
     -   모든 개발은 테스트 환경을 구축하는 것에서 시작, 구축된 환경 속에서 비즈니스 로직 개발
 
-    -   구축한 유닛 테스트를 활용해 지속적인 리팩토링을 수행하고 에러 추적에 활용해 빠른 문제해결 달성
-
-    -   프론트엔드 영역을 데이터, UI ,인터랙션으로 구분하고 단일 책임 원칙과 함수의 순수성을 준수하여 기존 코드 리팩토링,
-        그 결과 코드 가독성이 향상되고 유지보수가 용이함을 경험
+    -   프론트엔드 영역을 데이터, UI ,인터랙션으로 구분하고 단일 책임 원칙과 함수의 순수성을 준수하여 기존 코드 리팩토링
 
     -   유지보수 시간을 하루 평균 3시간에서 1시간 이내로 단축할 수 있었고 확보한 시간을 비즈니스 로직 구현에 활용
 
